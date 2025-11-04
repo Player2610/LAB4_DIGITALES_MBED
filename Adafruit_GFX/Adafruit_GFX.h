@@ -21,6 +21,7 @@ All text above must be included in any redistribution
 #define _ADAFRUIT_GFX_H_
 
 #include "Adafruit_GFX_Config.h"
+#include "mbed.h"
 
 static inline void swap(int16_t &a, int16_t &b)
 {
